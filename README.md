@@ -6,4 +6,10 @@ Nutrition assistant Application:
                    
                    
 TEAM LEADER:AAKASH B
+
+
+
+
+
+
 TEAM MEMBERS:NAVEENKUMAR B,YUVARAJ R,LATHISH K,MOHANA SUNDARAM G
